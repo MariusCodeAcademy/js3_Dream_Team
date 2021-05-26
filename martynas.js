@@ -1,1 +1,1 @@
-console.log("SVEIKI");
+console.log("SVEIKI GYVI");
