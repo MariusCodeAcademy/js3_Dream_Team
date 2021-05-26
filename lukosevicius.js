@@ -1,3 +1,3 @@
 "use stict"
 
-console.log("Labas");
+console.log("Laimonas Lukoševičius");
